@@ -595,3 +595,24 @@ pre tt:after {
     font-size: 100%;
   }
 }
+
+.random-op span {
+  animation: randomOp 0.3s linear;
+}
+
+@keyframes randomOp {
+  0% {opacity: 1}
+  50% {opacity: 0}
+  100%{opacity: 1}
+}
+
+.pyonpyon span {
+  animation: pyon 0.3s linear;
+  position: relative;
+}
+
+@keyframes pyon {
+  0% {top: 0}
+  50% {top:-17px}
+  100%{top: 0}
+}

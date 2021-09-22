@@ -31,6 +31,6 @@ function randomCharactor(c) {
 
 //クラス名が pyonpyon のクラスを跳ねさせる
 
-console.log("3");
 // randomCharactor("random-op");
 randomCharactor("pyonpyon");
+

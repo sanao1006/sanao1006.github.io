@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[678],{7704:function(e,t,h){h.r(t);var a=h(7294),n=h(5127),l=h(3751);t.default=function(){return a.createElement(n.Z,null,a.createElement(l.Z,{title:"Home"}),a.createElement("h1",null,"こんにんちはっっはhhhhhhhhhhhhhhhhhh "),a.createElement("span",{className:"pyonpyon"},"なんにもないんだなこれが... "))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-4d634dc230d1b0929477.js.map

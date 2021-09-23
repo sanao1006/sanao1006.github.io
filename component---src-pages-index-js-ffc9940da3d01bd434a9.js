@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[678],{7704:function(e,t,a){a.r(t);var l=a(7294),n=a(5127),r=a(3751);t.default=function(){return l.createElement(n.Z,null,l.createElement(r.Z,{title:""}),l.createElement("h1",null,"こんにちは"),l.createElement("div",{className:"container"},l.createElement("div",{className:"neon"},"なんにもないよ"),l.createElement("div",{className:"flux"},"フォローしてね")))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-ffc9940da3d01bd434a9.js.map
